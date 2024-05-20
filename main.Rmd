@@ -1,0 +1,35 @@
+---
+title: "“Kincskeresés”: A fiataloknak szóló pénzügyi edukáció mint adaptív előkészítés"
+author: "Tamás Smahajcsik-Szabó"
+bibliography: behav.bib
+output:
+  pdf_document:
+    latex_engine: xelatex
+  
+csl: apa7.csl
+header-includes:
+- \usepackage{pdflscape}
+- \newcommand{\blandscape}{\begin{landscape}}
+- \newcommand{\elandscape}{\end{landscape}}
+
+# template: "template.tex"
+bib-latex-options: "style=apa, sorting=nyt, backend=biber, maxcitenames=2, useprefix, doi=true, isbn=false, uniquename=false"
+
+---
+
+
+**Bevezetés** A pénzügyi oktatás, felelős és adaptív financiális viselkedés kialakításának jelentőségét annak gazdasági-viselkedéses, egészségpszichológiai és döntési vonatkozásai alapján tekintem át.
+
+**Elméleti háttér** Az intézményes, illetve tantervi keret alapján a legtöbb ország oktatási rendszerében vagy nem elégséges, vagy nem megfelelően illeszkedő a pénzügyi viselkedésre irányuló tudatos nevelés [@Wahyuni2023].
+A korai, célzott és képességekhez, korhoz illesztett nevelés fontosságát emeli ki, hogy a gyermekek nyolc éves korukig sajátítják el a jövőben tanúsított kongitív, szociális és érzelmi képességik alapjainak felét [@Jorgensen2010].
+A napi pénzügyi szokások és tevékenységek helyes kialakulása létfontosságú mind az átlagos mindennapokban, mind pedig kritikus időszakokban egyaránt.
+A megfelelő pénzügyi nevelésnek magában kell foglalnia a képességet, hogy felelős magatartás alakuljon ki, úgy mint a költségvetés vezetése, a tervezés, a takarékosság, a helyes rizikóviselkedés és az elemzési képességek gyakorlatba ültetése [@Wahyuni2023].
+Az elégtelen edukáció, a hiányos pénzügyi szocializáció olyan viselkedésjegyekhez vezet mint a státuszszimbólumok vezette költekezés, a rövid távú költések, bármilyen gátlás hiánya, impulziv vásárlás, hirtelen, mindeféle körültekintést vagy információszerzést nélkülöző, vagy külső jegyek, megjelenés vezette költekezés [@White2019].
+A megfelelő pénzügyi edukáció végső célja a financiális intelligencia, az informáltság alapján vezetett döntési és mérlegelési képesség kialakulása, mely annak felismerését is jelenti, mikor szükséges tanács kérése, vagy támogatás, és ezáltal hozzájárul a jóllét kialakulásához.
+A pénzügyi "olvasottság" azt is jelenti, a megfelelően kiválogatott, a döntés szempontjából releváns információ alapján tud mérlegelni a személy, és felismeri a végkimenetel teljes anyagi vonzatát.
+5-6 éves gyerekeken végzett kutatásában [@Wahyuni2023] a pénzügyi ismeretek jelentős javulását érték el Simon Nicholson un. "Loose Parts Play" paradigmáját követve, mely a gyermekek tanulásában a játék során kitöltött, "üres terek" koncepióját használja.
+
+**Összefoglalás**
+
+**Felhasznált irodalom**
+
