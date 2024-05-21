@@ -18,24 +18,28 @@ bib-latex-options: "style=apa, sorting=nyt, backend=biber, maxcitenames=2, usepr
 ---
 
 
-**Bevezetés** A pénzügyi oktatás, felelős és adaptív financiális viselkedés kialakításának jelentőségét annak gazdasági-viselkedéses, egészségpszichológiai és döntési vonatkozásai alapján tekintem át.
+**Bevezetés** A pénzügyi oktatás, felelős és adaptív financiális viselkedés kialakításának jelentőségét annak hatásai, hiányának kihatása és hatékonyságának mibenléte alapján tekintem át.
 
 **Elméleti háttér** Az intézményes, illetve tantervi keret alapján a legtöbb ország oktatási rendszerében vagy nem elégséges, vagy nem megfelelően illeszkedő a pénzügyi viselkedésre irányuló tudatos nevelés [@Wahyuni2023].
-A korai, célzott és képességekhez, korhoz illesztett nevelés fontosságát emeli ki, hogy a gyermekek nyolc éves korukig sajátítják el a jövőben tanúsított kongitív, szociális és érzelmi képességik alapjainak felét [@Jorgensen2010].
+A korai, célzott és képességekhez, korhoz illesztett nevelés fontosságát emeli ki, hogy a gyermekek nyolc éves korukig sajátítják el a jövőben tanúsított kongitív, szociális és érzelmi képességeik, illetve készségeik alapjainak felét [@Jorgensen2010].
 A napi pénzügyi szokások és tevékenységek helyes kialakulása létfontosságú mind az átlagos mindennapokban, mind pedig kritikus időszakokban egyaránt.
 A megfelelő pénzügyi nevelésnek magában kell foglalnia a képességet, hogy felelős magatartás alakuljon ki, úgy mint a költségvetés vezetése, a tervezés, a takarékosság, a helyes rizikóviselkedés és az elemzési képességek gyakorlatba ültetése [@Wahyuni2023].
 Az elégtelen edukáció, a hiányos pénzügyi szocializáció olyan viselkedésjegyekhez vezet mint a státuszszimbólumok vezette költekezés, a rövid távú költések, bármilyen gátlás hiánya, impulziv vásárlás, hirtelen, mindeféle körültekintést vagy információszerzést nélkülöző, vagy külső jegyek, megjelenés vezette költekezés [@White2019].
 A megfelelő pénzügyi edukáció végső célja a financiális intelligencia, az informáltság alapján vezetett döntési és mérlegelési képesség kialakulása, mely annak felismerését is jelenti, mikor szükséges tanács kérése, vagy támogatás, és ezáltal hozzájárul a jóllét kialakulásához.
 A pénzügyi "olvasottság" azt is jelenti, a megfelelően kiválogatott, a döntés szempontjából releváns információ alapján tud mérlegelni a személy, és felismeri a végkimenetel teljes anyagi vonzatát.
 
-5-6 éves gyerekeken végzett kutatásában [@Wahyuni2023] a pénzügyi ismeretek jelentős javulását érték el Simon Nicholson un. "Loose Parts Play" paradigmáját követve, mely a gyermekek tanulásában a játék során kitöltött, "üres terek" koncepióját használja.
-A korai szokások későbbi életvitelre, éleminőségre, és esetünkben a majdani család financiális biztonságára és egészségére gyakorolt hatása miatt a szerzők különösen fontosnak tartják a pénzügyi edukációt, illetve az oktatási rendszer, oktatói személyzet erre vonatkozó felkészültségét és nyitottságát.
+5-6 éves gyerekeken végzett kutatásában [@Wahyuni2023] a pénzügyi ismeretek jelentős javulását érték el Simon Nicholson un. "*Loose Parts Play*" paradigmáját követve, mely a gyermekek tanulásában a játék során kitöltött, "üres terek" koncepióját használja.
+A korai szokások későbbi életvitelre, életminőségre, és esetünkben a majdani család financiális biztonságára és egészségére gyakorolt hatása miatt a szerzők különösen fontosnak tartják a pénzügyi edukációt, illetve az oktatási rendszer, oktatói személyzet erre vonatkozó felkészültségét és nyitottságát.
 
-- negativ hatasok, miert igazan lenyeges
-- miben lehet hatékony az oktatás https://www.sciencedirect.com/science/article/abs/pii/S0304387822000426
+A pénzügyi oktatás különösen fontos fiatalok körében az érintett pénzügyi biztonság, befektetések, felelős kezelés, előrelátó, tervező viselkedés tekintetében, de ugyanakkor további szempont a korosztályt jelentősen célző kibertámadások és online csalások kivédése, időben történő észlelése is [@Hassan2024].
+Az eredmények szerint az ilyen jellegő fenyegetések ellen nagy szerepet játszik több észlelt változó mellett a kiberbiztonság észlelt hatékonysága (*cybersecurity efficacy*), mely az online csalások és financiális támadások felismerését, illetve a védekezés módjainak pontos ismeretét jelenti, s mint olyan, közvetlen célja a pénzügyi edukációnak.
 
+Végezetül a pénzügyi oktatás hatékonyságában jelentős szerepet játszik az un. "active learning", mely a hagyományos tényanyagon alapuló, lektori oktatás helyett a (nem egyszer fizikailag is) tevőleges, megvitatást, le-, illetve eljátszást is magában foglaló, médiaelemeket, interaktivitást, virtualis eszközöket előtérbe helyező oktatást jelenti [@Kaiser2022].
+Jellegéből kifolyólag is ez az oktatási forma könnyen adaptálható fiatalkorúak alkotta célcsoportokban.
+További előnye az akár 4 évvel az oktatást követően is kimutatható jobb pénzügyi kimeneti változók terén nyújtott teljesitmény, úgy mint befektetések, takarékosság, előre látó, tervező magatartás.
+Jobb teszteredmények jellemezték az pénzügyi oktatás online formájában részesülő hallgatókat szemben a hagyományos formával [@Agasisti2023].
 
-**Összefoglalás**
+**Összefoglalás** A pénzügyi oktatás eredményes egy a fiatalok számára könnyen adaptálható formában (aktivitást magában rejtő, online) módozata lehet eredményes, mely idői vontakozásaiban évekre meghatározó, és a gazdasági biztonság alapját adja meg materiális és kiberértelemben is.
 
 **Felhasznált irodalom**
 
